@@ -11,5 +11,5 @@ This repository contains a fun and interactive Rock Paper Scissors game implemen
 1. The user chooses Rock, Paper, or Scissors.
 2. The computer chooses its move.
 3. The winner is decided based on the classic rules of the game.
-4. To play <a href="https://danielhashmi.github.io/Rock-Paper-Scissors/">Click Here</a>
+4. To play <a href="https://danielhashmi.github.io/Rock-Paper-Scissors/">Click Here</a>.
 Feel free to explore the repository, raise issues, and contribute. Enjoy the game!
